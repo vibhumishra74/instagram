@@ -11,7 +11,7 @@ export default function Homescreen() {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        paddingLeft: 1,
+        padding: 1,
       }}>
       <Feed />
     </SafeAreaView>

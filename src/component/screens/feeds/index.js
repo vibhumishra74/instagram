@@ -1,5 +1,5 @@
 import React from 'react';
-import {FlatList} from 'react-native';
+import {FlatList, View} from 'react-native';
 import Post from '../../posts';
 import Stories from '../../stories';
 import story from '../../stories/storys';
